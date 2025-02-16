@@ -5,6 +5,7 @@ This repository contains my Lab 2 - Git solution for the Introduction to DevOps 
 The lab is designed to provide hands-on experience with Git, including repository management, version control, branching strategies, and collaboration through pull requests.
 
 # Topics Covered  
+
 - This lab focuses on essential Git workflows and commands, including:
 - Cloning a GitHub repository
 - Creating and switching branches
