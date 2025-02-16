@@ -6,7 +6,7 @@ The lab is designed to provide hands-on experience with Git, including repositor
 
 # Topics Covered  
 
-- This lab focuses on essential Git workflows and commands, including:
+This lab focuses on essential Git workflows and commands, including:
 - Cloning a GitHub repository
 - Creating and switching branches
 - Committing and tracking changes
